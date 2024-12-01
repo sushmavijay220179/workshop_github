@@ -1,0 +1,27 @@
+ 2 git init
+   3 ls -a
+   4 dir /a
+   5 pwd
+   6 dir  ./a
+   7 dir .\*
+   8 dir
+   9 dir /a
+  10 dir /a
+  11 cd PS C:\Users\Dell\workshop_github> dir /a
+  12 dir /a
+  13 Get-ChildItem -Force
+  14 git --version
+  15 git status
+  16 git config --global --add safe.directory C:/Users/Dell/workshop_github
+  17 git status
+  18 git add .
+  19 git status
+  20 git commit .
+  21 git config --global user.email sushmavijaydevops@gmail.com
+  22 git config --global user.name "sushmavijay"
+  23 git commit .
+  24 git config --global user.name sushmavijay
+  25 git commit .
+  26 rm testing.py
+  27 git status
+  28 git restore testing.py
