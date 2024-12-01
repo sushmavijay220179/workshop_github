@@ -1,0 +1,6 @@
+1.	Git init: to initialize git. Filesystem folder conver into git version control system.
+2.	Git status:to see status of file/dir in GIT
+3.	Git add: move file to filesystem to stage
+4.	Git rm –cached : to move file from stage to file system
+5.	Git commit . : to move file from stage to vcs(track)
+6.	Git restore: to restore deleted file 
